@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+There is a new hidden directory has been added. 
+And I think we need to do it to initialize a place to our old files before every commit  
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It's a place between the working directory and the repository
+we can by it chose the files which will do a commit for it
+And it's help our commits to be more specialist
