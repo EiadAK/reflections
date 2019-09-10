@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 I think that I can said that the forks like's the branches but it's from a project in the GitHub 
 clones simply it's a clone from a project to our local device
 branches it's a branch from commits master line 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It's useful to make our work starting from the last state of the project which our partners work on it
