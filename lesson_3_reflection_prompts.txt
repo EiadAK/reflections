@@ -12,3 +12,7 @@ branches it's a branch from commits master line
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It's useful to make our work starting from the last state of the project which our partners work on it
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I think we must be in the same place to be able to collaborate in nearly same effectiveness 
+and that of course make the collaborate using Git and GitHub the best way
